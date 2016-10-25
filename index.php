@@ -1,3 +1,4 @@
-<?php echo "Hello";
-echo "World";
+<?php
+echo "Hello".PHP_EOL;
+print("World");
 
